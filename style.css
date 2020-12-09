@@ -1,0 +1,27 @@
+/* Styling Attributes so the website looks nice :) */
+
+body {
+  background-color: lightgray;
+}
+
+#maincontent {
+  background-color: lightslategray;
+  border-color: black;
+  border-style: double;
+  border-width: 8px;
+  padding: 10px;
+  margin: 40px;
+}
+
+.text {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+.text2 {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-bottom: 8px;
+}

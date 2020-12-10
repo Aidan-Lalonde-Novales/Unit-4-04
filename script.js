@@ -3,7 +3,7 @@
 document.getElementById('submitbutton').addEventListener('click', myFunction)
 
 function myFunction () {
-  let fname = document.getElementById("fname").value;
-  let lname = document.getElementById("lname").value;
-  alert('Your name is '+fname+' '+lname);
+  const fname = document.getElementById('fname').value
+  const lname = document.getElementById('lname').value
+  alert('Your name is ' + fname + ' ' + lname)
 }
